@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="NOT READY YET" alt="Svara" width="120" />
+<img src="https://avatars.githubusercontent.com/u/338179639?s=200&v=4" alt="Svara" width="120" />
 
 # Svara
 
